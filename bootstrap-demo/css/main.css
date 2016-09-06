@@ -1,0 +1,16 @@
+.red{ background: red;}
+.green{ background: green; }
+.pink { background: pink;}
+.teal { background: teal;}
+.aqua { background: aqua;}
+
+/*real stuff */
+
+figure img {
+    max-width: 100%;
+}
+
+.logo {
+    color: #fff;
+    font-family: 'Gotham Narrow', sans-serif;
+}
