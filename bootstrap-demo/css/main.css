@@ -1,8 +1,8 @@
-.red{ background: red;}
-.green{ background: green; }
-.pink { background: pink;}
-.teal { background: teal;}
-.aqua { background: aqua;}
+.aside{ background: #f2f2f2;}
+.blue{ background: blue; }
+.pink { background: #808080;}
+.teal { background: #FFF ;}
+.footer { background: #808080;}
 
 /*real stuff */
 
@@ -13,4 +13,16 @@ figure img {
 .logo {
     color: #fff;
     font-family: 'Gotham Narrow', sans-serif;
+}
+
+header {
+    color: white;
+}
+
+aside {
+    color: white;
+}
+
+footer {
+    color:white;
 }
