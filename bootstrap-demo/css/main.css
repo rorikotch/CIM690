@@ -25,4 +25,9 @@ aside {
 
 footer {
     color:white;
+    max-width: 100%;
+}
+
+aside {
+    max-width: 100%;
 }
