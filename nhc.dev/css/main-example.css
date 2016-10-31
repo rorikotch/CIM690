@@ -1,0 +1,58 @@
+/* delete before launch */
+.red { background: red;}
+.pink { background: pink;}
+.aqua { background: aqua;}
+.orange { background: orange;}
+.yellow { background: yellow;}
+.beige { background: beige;}
+
+/*css*/
+
+h1 {
+    font-family: 'Archivo Black', sans-serif;
+    font-weight: 300;
+}
+
+nav.main ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav.main > ul > li {
+    margin: 0;
+    padding: 5px 10px 5px 10px;
+    width: 20%;
+    float: left;
+    text-align: center;
+    border: 1px solid #000;
+}
+
+nav.main ul li:hover {
+    background: green;
+}
+
+.nopadding {
+    padding: 0;
+}
+
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
+    background-color: #45ff00;
+}
+
+
+.btn {
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    border: 1px solid #000;
+    border-radius: 0;
+}
+
+.btn-default {
+    background: #239ea2;
+    border-color: aquamarine;
+    color: white;
+}
+
