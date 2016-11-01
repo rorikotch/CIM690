@@ -149,6 +149,13 @@ li:hover{
 /* NAV STYLING END */
 
 #headline { 
-    text-align: center; 
-    float: right; 
+    float: right;
+    margin: 0; 
+    padding: none; 
 }
+
+#background {
+    background: url("background-image"); 
+    background-repeat: no-repeat;
+}
+
