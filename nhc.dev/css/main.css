@@ -1,14 +1,3 @@
-li {
-    text-decoration: none;
-    font-family: 'Archivo Narrow', sans-serif;
-    font-size: 16px;
-}
-
-div.nav {
-    text-decoration: none;
-}
-
-
 /* NAV STYLING!*/
 
 li:hover {
@@ -189,3 +178,14 @@ font {
 p {
     font-family: 'Archivo Narrow', sans-serif;
 }
+
+li {
+    text-decoration: none;
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 16px;
+}
+
+div.nav {
+    text-decoration: none;
+}
+
