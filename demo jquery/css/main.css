@@ -6,6 +6,7 @@
     
 }
 
-.blue {
-    background: blue; 
+#joe.blue {
+    background: blue !important; 
+    width: 400px !important; 
 }
