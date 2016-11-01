@@ -5,7 +5,7 @@ font {
 
 h1 {
     font-family: 'Archivo Black', sans-serif;
-    color: white; 
+    color: white;
 }
 
 p {
@@ -13,7 +13,7 @@ p {
 }
 
 li {
-    text-decoration:none;
+    text-decoration: none;
     font-family: 'Archivo Narrow', sans-serif;
     font-size: 16px;
 }
@@ -22,11 +22,12 @@ div.nav {
     text-decoration: none;
 }
 
+
 /* NAV STYLING!*/
 
-li:hover{
-    background-color: rgb(216,216,216); 
-    color: black; 
+li:hover {
+    background-color: rgb(216, 216, 216);
+    color: black;
 }
 
 #wrapper {
@@ -49,7 +50,7 @@ li:hover{
     height: 100%;
     margin-left: -250px;
     overflow-y: auto;
-    background: rgb(29,175,236);
+    background: rgb(29, 175, 236);
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
@@ -70,6 +71,7 @@ li:hover{
     position: absolute;
     margin-right: -250px;
 }
+
 
 /* Sidebar Styles */
 
@@ -96,7 +98,7 @@ li:hover{
 .sidebar-nav li a:hover {
     text-decoration: none;
     color: #fff;
-    background: rgba(255,255,255,0.2);
+    background: rgba(255, 255, 255, 0.2);
 }
 
 .sidebar-nav li a:active,
@@ -123,41 +125,38 @@ li:hover{
     #wrapper {
         padding-left: 250px;
     }
-
     #wrapper.toggled {
         padding-left: 0;
     }
-
     #sidebar-wrapper {
         width: 250px;
     }
-
     #wrapper.toggled #sidebar-wrapper {
         width: 0;
     }
-
     #page-content-wrapper {
         padding: 20px;
         position: relative;
     }
-
     #wrapper.toggled #page-content-wrapper {
         position: relative;
         margin-right: 0;
     }
 }
+
+
 /* NAV STYLING END */
 
-#headline { 
+#headline {
     float: left;
-    margin: 0; 
+    margin: 0;
     margin-top: 70px;
     margin-left: 5px;
-    padding: none; 
+    padding: none;
 }
 
 #background {
-    background: url("background-image"); 
+    background: url("background-image");
     background-repeat: no-repeat;
 }
 
@@ -167,12 +166,20 @@ img {
 }
 
 #logo {
-    float: left; 
+    float: left;
     max-width: 100%;
     max-height: 100%;
 }
 
 button {
-    float: right;  
+    float: right;
 }
 
+/*footer {
+    background: aliceblue;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+*/
