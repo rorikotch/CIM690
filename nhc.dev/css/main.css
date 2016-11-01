@@ -172,3 +172,7 @@ img {
     max-height: 100%;
 }
 
+button {
+    float: right;  
+}
+
