@@ -159,17 +159,12 @@ img {
     margin-right: 10px;
 }
 
-
-/*footer {
-    background: aliceblue;
-    padding-right: 0px;
-    padding-left: 0px;
-    margin-right: 0px;
-    margin-left: 0px;
-}
-*/
-
 h1 {
+    font-family: 'Archivo Black', "sans-serif";
+    margin-left: 5px;
+}
+
+h3 {
     font-family: 'Archivo Black', "sans-serif";
     margin-left: 5px;
 }
@@ -192,4 +187,14 @@ li {
 
 div.nav {
     text-decoration: none;
+}
+
+.second-row {
+    float: right; 
+    
+}
+
+.archive-link {
+    text-decoration: underline;
+    
 }
